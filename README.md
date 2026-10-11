@@ -19,7 +19,7 @@ The KiCad schematic and PCB layout have been created, and Gerber and drill files
 The firmware has been compiled in the Arduino IDE, but the project has not yet been tested on a physical board. Further customisation and testing may happen as I continue learning :) 
 
 ## Software
-The [View my PCB files](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is based on the original Starbie starter firmware and is being customised as I learn more about programming and hardware
+The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is based on the original Starbie starter firmware and is being customised as I learn more about programming and hardware
 
 ## Repository Contents 
 [PCB/](PCB/) - KiCad source files 
