@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.25h | 4 |
+| Week 1 | Tier 1 | 9.45h | 4 |
 
 ## Contents
 
@@ -69,7 +69,7 @@ Ran through DRC and got the expected errors and a bunch of warnings for the Xiao
 
 ### 2026-10-11 – Finished up the PCB and started on firmware!
 
-**3.25h**
+**3.45h**
 
 Finished up the PCB and started on firmware!
 
