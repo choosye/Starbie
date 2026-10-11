@@ -17,7 +17,7 @@
 | [GY-521 MPU6050](https://sg.cytron.io/p-gy-521-mpu6050-6dof-accelerometer-plus-gyro) | Movement Sensor | 1 | $3.00 | $3.00 | [Cytron Marketplace](https://sg.cytron.io/p-gy-521-mpu6050-6dof-accelerometer-plus-gyro) |
 | [DHT11](https://sg.cytron.io/p-dht11-sensor-module-breakout) | Environment Sensor | 1 | $1.37 | $1.37 | [Cytron Marketplace](https://sg.cytron.io/p-dht11-sensor-module-breakout) |
 | **Parts subtotal** | — | — | — | **$12.37** | — |
-| **Tax & shipping** | — | — | — | **$11.96** | — |
-| **Total** | — | — | — | **$24.33** | — |
+| **Tax & shipping** | — | — | — | **$10.81** | — |
+| **Total** | — | — | — | **$23.18** | — |
 
-$5.67 left of the tier's funding.
+$6.82 left of the tier's funding.
