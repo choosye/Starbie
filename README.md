@@ -2,7 +2,7 @@
 Half Life Hack Club Week 1 - Starbie 
 
 <img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/a372d401-521a-4da8-92d2-cf795081f638" />
-Starbie is your tiny motion-controlled digital companion: basically a desktop Tamagotchi (which can also double as a keychain!). Interact with it by physically moving the board or pressing buttons!
+Starbie is your tiny motion-controlled digital companion: basically a desktop Tamagotchi (which can also double as a keychain!). Interact with it by physically tilting, moving the board or pressing buttons!
 
 ## What it is
 Starbie is designed to sit on your desk or hang on your bag as a keychain, show its personality on a small display, and react to how you handle it by tilting or moving it.
@@ -22,6 +22,6 @@ The firmware has been compiled in the Arduino IDE, but the project has not yet b
 The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is based on the original Starbie starter firmware and is being customised as I learn more about programming and hardware
 
 ## Repository Contents 
-[PCB/](PCB/) - KiCad source files 
-[Firmware/](Firmware/) - Arduino IDE sketch
-[Gerbers/](Gerbers/) - PCB manufacturing files (Gerber and drill files)
+- [PCB/](PCB/) - KiCad source files 
+- [Firmware/](Firmware/) - Arduino IDE sketch
+- [Gerbers/](Gerbers/) - PCB manufacturing files (Gerber and drill files)
