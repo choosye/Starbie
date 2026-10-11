@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.5h | 3 |
+| Week 1 | Tier 1 | 6h | 3 |
 
 ## Contents
 
@@ -37,17 +37,15 @@ Ran into my first big problem when assigning footprints! Only found out when I t
 
 ### 2026-10-08 – For this session, I decided to start designing how Starbie would look like and how it would function!
 
-**2.5h**
+**2h**
 
 For this session, I decided to start designing how Starbie would look like and how it would function!
 
 ![IMG_0376](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/7723a96748265b90eac205ce936074ff46dcc70b6706c5f002cd9d2212f34a65.png)
 Decided it would be a desk buddy which could also double as a keychain so it’s really a ‘companion’ :)  Brainstormed on how Starbie would function and help out with productivity + aesthetics
 
-![IMG_6847](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/153780a720dd05a948a4639ee42d5e6f05e6cc4cd01624e784be1824305a5afd.jpg)
-After the brainstorming, I got back to KiCad and started to design the PCB :) and back to following the guide!
-
 ![Screenshot 2026-10-08 at 5.31.46 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/4b5f1ead31e11b80bebe0f023f76db2fe232437f76c0d9cb54e70c42a92a364c.png)
+After the brainstorming, I got back to KiCad and started to design the PCB :)
 Rearranged the different components to my liking (took a while to decide on where the buttons should be haha) and got started on making the boundary with the edge cuts layer which is taking quite a while :] (thank you youtube!)
 
 ### 2026-10-09 – For this session, I managed to clean up and get more work done on the PCB :)
