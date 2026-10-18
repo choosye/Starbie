@@ -25,3 +25,4 @@ The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is
 - [PCB/](PCB/) - KiCad source files 
 - [Firmware/](Firmware/) - Arduino IDE sketch
 - [Gerbers/](Gerbers/) - PCB manufacturing files (Gerber and drill files)
+- [BOM.csv](BOM.csv) - Bill of materials listing the parts and materials used in the project
