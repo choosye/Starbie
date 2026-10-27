@@ -11,13 +11,13 @@ Starbie is a beginner hardware project built around a Seeed Studio XIAO ESP32-C3
 The project introduces PCB design, circuit schematics, and Arduino firmware.
 
 ### Schematic
-<img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/32c73c00-ce90-4d6f-9219-409b9bc4dba4" />
+<img width="805" height="606" alt="Screenshot 2026-10-27 at 7 13 55 PM" src="https://github.com/user-attachments/assets/2b027bc2-53f8-419b-911d-c6ff90c7cfce" />
 
 ### PCB Layout
-<img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/ec9e7c6e-dc67-4006-b9d7-d8026c864ee5" />
+<img width="1017" height="546" alt="Screenshot 2026-10-27 at 7 12 59 PM" src="https://github.com/user-attachments/assets/910e9f89-3bc9-4c29-9cfe-7f08e8edb8d9" />
 
 ## How It Works (Parts) 
-- XIAO ESP32-C3 (Microcontroller) - The brain of Starbie. It runs the Arduino firmware, reads input from the sensors and buttons, and decides what to display on the screen.
+- XIAO ESP32-C3 (Microcontroller) - The brain of Starbie! It runs the Arduino firmware, reads input from the sensors and buttons, and decides what to display on the screen.
 - OLED Display - Shows Starbie's expressions, animations, and other visual feedback based on the firmware.
 - Motion Sensor (MPU6050) - Detects movement and changes in orientation, allowing Starbie to react when it is tilted or shaken.
 - Environmental Sensor (DHT11) - Measures environmental conditions, such as temperature and humidity.
