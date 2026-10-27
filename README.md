@@ -34,8 +34,13 @@ The firmware has been compiled in the Arduino IDE, but the project has not yet b
 ## Software
 The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is based on the original Starbie starter firmware and is being customised as I learn more about programming and hardware
 
+## Repository Contents 
+- [PCB/](PCB/) - KiCad source files 
+- [Firmware/](Firmware/) - Arduino IDE sketch
+- [Gerbers/](Gerbers/) - PCB manufacturing files (Gerber and drill files)
+- [BOM.csv](BOM.csv) - Bill of materials listing the parts and materials used in the project 
+
 ## Bill Of Materials
-[Starbie BOM - Sheet1.md](https://github.com/user-attachments/files/34014684/Starbie.BOM.-.Sheet1.md)
 |Item                       |Qty|Price per unit (USD)|Function          |Supplier          |Link                                                                                                                                  |
 |---------------------------|---|--------------------|------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 |Seeed Studio XIAO ESP32-C3 |1  |$4.90               |Micro-controller  |seeed studio      |https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4Uf-SDZz0ly99Qs0vZfGcgLCV8KbI7izjYmD7nK8dfzqoPlj3cw           |
@@ -49,9 +54,3 @@ The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is
 |Shipping + Tax             |   |$10.81              |                  |                  |                                                                                                                                      |
 |Total                      |   |$24.33              |                  |                  |                                                                                                                                      |
 
-
-## Repository Contents 
-- [PCB/](PCB/) - KiCad source files 
-- [Firmware/](Firmware/) - Arduino IDE sketch
-- [Gerbers/](Gerbers/) - PCB manufacturing files (Gerber and drill files)
-- [BOM.csv](BOM.csv) - Bill of materials listing the parts and materials used in the project 
