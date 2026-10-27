@@ -126,3 +126,5 @@ On to the GitHub repo!! The README needed the most changes, so I made sure to fu
 
 ![Screenshot 2026-10-27 at 7.28.59 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/e4924ecf7791361ddec641b1af7eedda09fd7869acfe8f1b0a99f167fb6f9177.png)
 Lastly, I added the BOM table to my README!!! Not too sure why but this actually took the most time haha. First of all, I was absolutely clueless on how to transfer it properly into my README. I tried copying and pasting my BOM.csv into the readme but welp it didn't turn out as I expected. I thought it'd magically turn into a table HAHA but it was exactly what I pasted in TT-TT. Luckily, Google came to the rescue and apparently I needed to convert the .csv into a markdown table. So I did! Yay finally got it in :p However, I noticed the formatting wasn't really to my liking that much so I went ahead and did that. Exported, converted, and imported it into the readme again. Yahoo! Hopefully my project gets approved :) Thank you reviewers <3
+
+Whoops just realised I didn't add the 3D model for the display! Added and updated :D
