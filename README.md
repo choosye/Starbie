@@ -26,3 +26,13 @@ The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is
 - [Firmware/](Firmware/) - Arduino IDE sketch
 - [Gerbers/](Gerbers/) - PCB manufacturing files (Gerber and drill files)
 - [BOM.csv](BOM.csv) - Bill of materials listing the parts and materials used in the project
+
+## Bill Of Materials 
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Seeed Studio XIAO ESP32-C3,1,seeed studio,$4.90,$4.90,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4Uf-SDZz0ly99Qs0vZfGcgLCV8KbI7izjYmD7nK8dfzqoPlj3cw
+"I2C 0.96"" OLED 128x64- Blue",1,Elecrow,$3.10,$3.10,https://www.elecrow.com/i2c-096-oled-128x64-blueyellow-p-1086.html?srsltid=AU7gw4WOojt7BDqWsa53WJQkMcbVZTniYpY9HbDWO8UR2jtLqKkch5-as4w
+GY-521 MPU6050,1,Cytron Marketplace,$3.00,$3.00,https://sg.cytron.io/p-gy-521-mpu6050-6dof-accelerometer-plus-gyro
+DHT11,1,Cytron Marketplace,$1.37,$1.37,https://sg.cytron.io/p-dht11-sensor-module-breakout
+Estimated total shipping,1,,,$10.81,
+
+
