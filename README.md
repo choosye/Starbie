@@ -52,6 +52,6 @@ The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is
 |Keycaps                    |2  |-                   |Buttons           |- (Owned)         |                                                                                                                           |
 |10k Resistors              |1  |-                   |Resistor          |- (Owned)         |                                                                                                                           |
 |                           |   |                    |                  |                  |                                                                                                                           |
-|Shipping + Tax             |   |$10.81              |                  |                  |                                                                                                                           |
-|Total                      |   |$24.33              |                  |                  |                                                                                                                           |
+|Shipping + Tax             |   |$9.65              |                  |                  |                                                                                                                           |
+|Total                      |   |$29.69              |                  |                  |                                                                                                                           |
 
