@@ -1,7 +1,7 @@
 # Starbie
 Half Life Hack Club Week 1 - Starbie 
 
-<img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/3898060b-a8cc-43b0-a1c5-06b25a1692cc" />
+<img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/4541e704-23fc-4070-a367-08d91dd5e679" />
 Starbie is your tiny motion-controlled digital companion: basically a desktop Tamagotchi (which can also double as a keychain!). Interact with it by physically tilting, moving the board or pressing buttons!
 
 ## What it is
