@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmuv7d1ca0ed701sm915jw1f6)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A cute, tiny motion-controlled Star! It doubles as a keychain to carry around or a desktop buddy to accompany you while you're typing away.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
