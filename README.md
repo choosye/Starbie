@@ -41,15 +41,17 @@ The [Firmware/](Firmware/) is an Arduino IDE sketch for the XIAO ESP32-C3. It is
 - [BOM.csv](BOM.csv) - Bill of materials listing the parts and materials used in the project 
 
 ## Bill Of Materials
-|Item                       |Qty|Price per unit (USD)|Function          |Supplier          |Link                                                                                                                                  |
-|---------------------------|---|--------------------|------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|Seeed Studio XIAO ESP32-C3 |1  |$4.90               |Micro-controller  |seeed studio      |https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4Uf-SDZz0ly99Qs0vZfGcgLCV8KbI7izjYmD7nK8dfzqoPlj3cw           |
-|I2C 0.96" OLED 128x64- Blue|1  |$3.10               |OLED Display      |Elecrow           |https://www.elecrow.com/i2c-096-oled-128x64-blueyellow-p-1086.html?srsltid=AU7gw4WOojt7BDqWsa53WJQkMcbVZTniYpY9HbDWO8UR2jtLqKkch5-as4w|
-|GY-521 MPU6050             |1  |$3.00               |Movement Sensor   |Cytron Marketplace|https://sg.cytron.io/p-gy-521-mpu6050-6dof-accelerometer-plus-gyro                                                                    |
-|DHT11                      |1  |$1.37               |Environment Sensor|Cytron Marketplace|https://sg.cytron.io/p-dht11-sensor-module-breakout                                                                                   |
-|MX Switches                |2  |-                   |Buttons           |- (Owned)         |                                                                                                                                      |
-|Keycaps                    |2  |-                   |Buttons           |- (Owned)         |                                                                                                                                      |
-|10k Resistors              |1  |-                   |Resistor          |- (Owned)         |                                                                                                                                      |
-|                           |   |                    |                  |                  |                                                                                                                                      |
-|Shipping + Tax             |   |$10.81              |                  |                  |                                                                                                                                      |
-|Total                      |   |$24.33              |                  |                  |                                                                                                                                      |
+|Item                       |Qty|Price per unit (USD)|Function          |Supplier          |Link                                                                                                                       |
+|---------------------------|---|--------------------|------------------|------------------|---------------------------------------------------------------------------------------------------------------------------|
+|Seeed Studio XIAO ESP32-C3 |1  |$4.90               |Micro-controller  |seeed studio      |https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4Uf-SDZz0ly99Qs0vZfGcgLCV8KbI7izjYmD7nK8dfzqoPlj3cw|
+|I2C 0.96" OLED 128x64- Blue|1  |$3.10               |OLED Display      |Aliexpress        |https://www.aliexpress.com/item/1005008217141983.html?spm=a2g0o.productlist.main                                           |
+|GY-521 MPU6050             |1  |$3.00               |Movement Sensor   |Cytron Marketplace|https://sg.cytron.io/p-gy-521-mpu6050-6dof-accelerometer-plus-gyro                                                         |
+|DHT11                      |1  |$1.37               |Environment Sensor|Cytron Marketplace|https://sg.cytron.io/p-dht11-sensor-module-breakout                                                                        |
+|PCB                        |1  |$9.40               |PCB               |JLCPCB            |jlcpcb.com                                                                                                                 |
+|MX Switches                |2  |-                   |Buttons           |- (Owned)         |                                                                                                                           |
+|Keycaps                    |2  |-                   |Buttons           |- (Owned)         |                                                                                                                           |
+|10k Resistors              |1  |-                   |Resistor          |- (Owned)         |                                                                                                                           |
+|                           |   |                    |                  |                  |                                                                                                                           |
+|Shipping + Tax             |   |$10.81              |                  |                  |                                                                                                                           |
+|Total                      |   |$24.33              |                  |                  |                                                                                                                           |
+
