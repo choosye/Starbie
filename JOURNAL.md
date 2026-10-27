@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 18.95h | 6 |
+| Week 1 | Tier 1 | 15.45h | 6 |
 
 ## Contents
 
@@ -19,7 +19,7 @@
 3. [2026-10-09: For this session, I managed to clean up and get more work done on the PCB :)](#2026-10-09-for-this-session-i-managed-to-clean-up-and-get-mo)
 4. [2026-10-11: Finished up the PCB and started on firmware!](#2026-10-11-finished-up-the-pcb-and-started-on-firmware)
 5. [2026-10-11: Finishing off Week 1 for Starbie!](#2026-10-11-finishing-off-week-1-for-starbie)
-6. [2026-10-25: Finishing touches for PCB design!](#2026-10-25-finishing-touches-for-pcb-design)
+6. [2026-10-25: Final edits to Starbie Repo!](#2026-10-25-final-edits-to-starbie-repo)
 
 ## Design
 
@@ -112,32 +112,17 @@ Managed to export the KiCad files, Arduino IDE, and Gerber files (very interesti
 This week has definitely been an eventful first week. I've learnt so so many things. Being exposed to hardware for the first time: now I know how to use KiCad (WOAH) and using the Arduino IDE firmware (still getting there though). Plus, it's always nice to see everyone else's amazing and creative ideas!
 I'll be updating Starbie along the way since it's far from perfect, but I'm happy with how far I've come YAY
 
-### 2026-10-25: Finishing touches for PCB design!
+### 2026-10-25: Final edits to Starbie Repo!
 
-**4.7h**
+**1.2h**
 
-Finishing touches for PCB design!
+Final edits to Starbie Repo!
 
-![Screenshot 2026-10-26 at 6.12.23 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/e6291c377a9719926cd0c07c70a63b6d9adf1852db00da4a4b71db321f236fbe.png)
-After laying everything out nicely, I started with the edge cuts border! For this project, I attempted making rounded edges (since I had only done a straight-lined border before for Starbie) and well it definitely tested my patience. When I first made the curve, I didn't quite understand how it worked and also it was really difficult to get a nice radius to make the curve curve nicely >:) and to also connect with the straight lines!! It took so so long to get everything aligned but it was definitely worth it. Well, I picked up a little trick (if you can even call it that haha) when I was doing the rounded edges. It was just to make the curve angled at 90' so that it would line up with my lines ^-^ I felt so accomplished every time it lined up nicely~
+![Screenshot 2026-10-27 at 7.09.03 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/af1915f9f29f72803fb4246182e3834c913a487e5529595564ed1c1d6bcb2383.png)
+First off, I added the 3D models to the PCB for each component. When I went into files to select the 3D models, I absolutely wrecked my brain trying to find the 3D model files. I could only clearly see the default KiCad files but couldn't find the ones that I had downloaded from the guide! As such, I started digging through every folder in there and made sure it was in my finder downloads because I was starting to doubt myself haha. But! Lo and behold, it was very hidden in the many folders. Finally managed to find the 3D Models file!! Although most of them imported kinda wonky, a little repositioning fixed it easily :) Yay! Looks much better with all of the 3D models together.
 
-![Screenshot 2026-10-26 at 6.18.11 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/d693c3ee84985624be4d536fb414656b63039f2af676993f8127d33b50d5f965.png)
-The finished edge cuts border! I'm pretty sure none of them have the same radius/curve but we don't talk about that! I'm just glad it looks nice and the hard work paid off :D
+![Screenshot 2026-10-27 at 7.29.14 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/f17b98220c67fa0c5ab4b2acde83eebdbbc3f8232868c3142f01225ab324a4a8.png)
+On to the GitHub repo!! The README needed the most changes, so I made sure to fulfil the review changes needed as best as I could. Added in my schematic and board layout, as well as how everything works together! Didn't completely understand how I should've done the 'how it works' so hopefully it's alright!
 
-![Screenshot 2026-10-26 at 6.37.53 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/422232ce4ac766d3cbc9c5b66119807301257a6f6f92333781ac67c233270476.png)
-Just like that, it was time to route the PCB! It may not be the neatest looking but I tried! When it was time for the DRC, I was in pure delight! Only 1 warning oh em gee! Well before that I did miss a route but I fixed that real quick (tysm drc!) and wow compared to Starbie which had like idk 20+ warnings because of the silkscreen, this was heaven. woohoo!!
-
-![Screenshot 2026-10-26 at 6.58.58 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/c85fcc3240a4655a0ba09a0c07308a9b307bb97bc88bd1108ae2f05411c157a7.png)
-Now, it's time for the fun part!! I love love putting images on the PCB, they really bring it to life! I added the Half-Life logo, some music notes, and a cute blob dude and cow listening and jamming to music :D I thoroughly enjoyed this part as I looked for relevant pictures to put on hehe
-One part that stood out when doing this was when I was converting the cute lil cow. Since the original picture wasn't super high on contrast and had different shaded parts, it was a little bit difficult to distinguish them and decide the black/white threshold. Luckily, it didn't turn out too bad!
-
-![Screenshot 2026-10-26 at 7.06.47 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/a2c069c420eade50eb47cd6123839ff995277c01ca6314ea3af3ee70024d76bf.png)
-Time to import the 3D modelsssss! I actually missed out on this for Starbie's because I kinda didn't even realise what it was for or how to import them but I learnt how to do it this time from the guide (thank you)! Although some of them came through a lil wonky like the one above, some fixes to the rotation and axes worked like a charm :)
-
-![Screenshot 2026-10-26 at 7.11.09 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/36b603e0678347c5d7c142dd1791cb1e17f005802a87d84c882495cf7fc41c17.png)
-Soon enough, I had imported all of the 3D models and it looked really great in the 3d viewer :DDD
-For this part though, I was reminded of how important it is to look at things from a different view every once in a while, because I found out that the spacing between my switches were really off!! I also decided to move my blob and cow a lil closer so that the whole thing would look more coherent. Glad I managed to fix these after looking at it from afar :))
-
-And that was it for the MIDI Keyboard design!
-
-After that though, I learnt how to install a plugin for the fabrication toolkit :O I was a little bit confused on where to install it and import it in, because I thought once I downloaded it KiCad would magically know it was there HAHA but of course, I had to go to the main page and install it. Glad that wasn't too difficult!
+![Screenshot 2026-10-27 at 7.28.59 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/e4924ecf7791361ddec641b1af7eedda09fd7869acfe8f1b0a99f167fb6f9177.png)
+Lastly, I added the BOM table to my README!!! Not too sure why but this actually took the most time haha. First of all, I was absolutely clueless on how to transfer it properly into my README. I tried copying and pasting my BOM.csv into the readme but welp it didn't turn out as I expected. I thought it'd magically turn into a table HAHA but it was exactly what I pasted in TT-TT. Luckily, Google came to the rescue and apparently I needed to convert the .csv into a markdown table. So I did! Yay finally got it in :p However, I noticed the formatting wasn't really to my liking that much so I went ahead and did that. Exported, converted, and imported it into the readme again. Yahoo! Hopefully my project gets approved :) Thank you reviewers <3
